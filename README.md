@@ -12,7 +12,7 @@ USA1 Tokenomics
 10% Fee
 5% to investors as a static fee for all transactions distributed to our holders.
 2% to the liquidity pool
-2% to Burn
+2% to Charity
 1% to Marketing
 
 How to buy USA1 Tokens 
