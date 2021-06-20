@@ -7,11 +7,11 @@ America1st.online website 
 Crypto Token to Help our Veterans with various challenges and promote American Patriotism.
 
 USA1 Tokenomics 
-1 Quintillion Tokens created initially 
+1 Quintillion Tokens created initially
 20% 200 Quadrillion Tokens Burn on July 4th celebration of the launch.
 10% Fee
 5% to investors as a static fee for all transactions distributed to our holders.
-2% to the liquidity pool
+3% to the liquidity pool
 2% to Charity
 1% to Marketing
 
