@@ -9,12 +9,11 @@ Crypto Token to Help our Veterans with various challenges and promote American P
 USA1 Tokenomics 
 1 Quintillion Tokens created initially
 20% 200 Quadrillion Tokens Burn on July 4th celebration of the launch.
-10% Fee-
+6% Fee-
 Fee Distribution Breakdown-
-5% to investors as a static fee for all transactions distributed to our holders.
-3% to the liquidity pool
-2% to Charity
-1% to Marketing
+2% to investors as a static fee for all transactions distributed to our holders.
+2% to the Liquidity Pool
+2% to General Operations, Charity and Marketing
 
 How to buy USA1 Tokens 
 Download Trustwallet.
