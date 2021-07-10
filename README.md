@@ -11,9 +11,8 @@ USA1 Tokenomics
 20% 200 Quadrillion Tokens Burn on July 4th celebration of the launch.
 6% Fee-
 Fee Distribution Breakdown-
-2% to investors as a static fee for all transactions distributed to our holders.
+4% to Current USA1 HODLERS as a static fee for all transactions.
 2% to the Liquidity Pool
-2% to General Operations, Charity and Marketing
 
 How to buy USA1 Tokens 
 Download Trustwallet.
